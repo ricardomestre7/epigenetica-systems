@@ -1,0 +1,17 @@
+{
+  "name": "Epigenética Systems · Modulação Gênica & Longevidade",
+  "short_name": "Epigenética",
+  "description": "Modulação da Expressão Gênica, Alavancas Epigenéticas e Longevidade Celular · Safe Creative #2610157331452",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061316",
+  "theme_color": "#06B6D4",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
