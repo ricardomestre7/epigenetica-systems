@@ -150,7 +150,7 @@ Safe Creative ID #2610157331452 · Tecnologia Cylinder Margin · Ricardo R Perei
   return (
     <div className="min-h-screen bg-[#070B14] text-[#E2E8F0] font-sans selection:bg-[#6366F1]/20 selection:text-[#6366F1]">
       {/* Header Unificado */}
-      <SistemaHeader slug="epigenetica" badge="MODULAÇÃO GÊNICA & LONGEVIDADE">
+      <EpigeneticaHeader>
         <button
           onClick={() => setActiveTab('plano')}
           className={`px-3 py-1.5 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-all ${
@@ -161,7 +161,7 @@ Safe Creative ID #2610157331452 · Tecnologia Cylinder Margin · Ricardo R Perei
         >
           <span>🧬 Gerar Plano Epigenético</span>
         </button>
-      </SistemaHeader>
+      </EpigeneticaHeader>
 
       <main className="max-w-6xl mx-auto px-4 sm:px-8 py-10 space-y-10">
         {/* Hero Section */}
